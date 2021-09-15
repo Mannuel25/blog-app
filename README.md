@@ -1,1 +1,1 @@
-## A Blog App
+## Blog App
